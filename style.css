@@ -1,0 +1,13 @@
+#heading{
+    font-size: 25px;
+    width: 100%;
+    margin-top: 0%;}
+
+    canvas{
+        background-color: gray;
+        border-radius: 15px;
+        border-color: black;
+        border-width: 10px;
+        border-style: double;
+        box-shadow: white 5px 5px 18px;
+    }
